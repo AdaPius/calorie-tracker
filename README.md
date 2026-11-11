@@ -19,7 +19,7 @@ Simply open `index.html` in any modern web browser or host on GitHub Pages. No b
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/calorie-tracker.git
+git clone https://github.com/AdaPius/calorie-tracker.git
 
 # Open index.html in your browser
 open index.html
@@ -30,3 +30,4 @@ open index.html
 - **HTML5:** Semantic markup and modal dialogs.
 - **CSS3:** Custom responsive layout (pure vanilla CSS).
 - **JavaScript (ES6+):** Pure vanilla JS, Canvas API, and Web Storage API (`localStorage`).
+
